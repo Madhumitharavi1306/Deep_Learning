@@ -1,1 +1,2 @@
 welcome to front end
+learn fundamentals
